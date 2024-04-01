@@ -61,7 +61,8 @@ bfs(visited, graph, '1')  # Function calling
 
 ### Output:
 
-![305637470-23ac9746-90fb-4a1f-941e-0459d06aca81](https://github.com/Sindhuja9585/AI_Lab_2023-24/assets/122860624/9aa36e42-e2ef-42ee-94d9-b2cbe71cb5ba)
+![318406185-d7f46381-e75b-4b9f-8089-8921c0edd73b](https://github.com/Sindhuja9585/AI_Lab_2023-24/assets/122860624/bbc0330f-3a00-4c60-904e-2db603811ce9)
+
 
 
 ### Result:
