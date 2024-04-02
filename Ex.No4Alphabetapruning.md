@@ -55,16 +55,6 @@ values, alpha, beta):
 values = [3, 5, 6, 9, 1, 2, 0, -1]
 print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX)
 ```
-
-
-
-
-
-
-
-
-
-
 ### Output:
 ![279731684-76695f45-2dd9-41c6-8623-037628be3b55](https://github.com/Sindhuja9585/AI_Lab_2023-24/assets/122860624/01eddc82-8098-47e8-a4ff-79c7e58d7c8f)
 
